@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @eggman920
+- 👋 Hi, I’m Ali Fawaz
 - 👀 I’m interested in ... becoming a software developer
-- 🌱 I’m currently learning ...Java
-- 💞️ I’m looking to collaborate on ... anything that can help me learn moe
-- 📫 How to reach me ... 
+- 🌱 I’currently work with python and sql and have solid understanding of java
+
 
 <!---
 eggman920/eggman920 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
